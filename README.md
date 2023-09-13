@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # HP-Project
-=======
+
 # HP-Project
 
 ## Worsksheets 
