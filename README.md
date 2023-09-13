@@ -101,6 +101,10 @@ Note: It may require some hard code or manual work since we have to make the pro
 5. Harsh:
 
 
+Other Useful Links
+1. https://github.com/Atomic-man007/Awesome_Multimodel_LLM
+2. https://github.com/huggingface/transformers/tree/main/src/transformers/models
+   
 ## Deadline
 
 1. We will do almost all the work in parallel. 
