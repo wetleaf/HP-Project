@@ -1,0 +1,32 @@
+1.Generate an educational worksheet for [grade level or age group] focusing on seasons. Include a maximum of 10 to 20 problems, each consisting of a question related to seasons, accompanied by images of relevant items or scenes. Do not include answers.
+
+For each problem, provide the following format:
+
+Problem [Problem Number]:
+Examine the images and answer the questions related to seasons.
+
+    What type of clothing do you wear in the summer season?
+        [Image of summer clothing items]
+
+    Which season is depicted in the figure?
+        [Image of a rainy scene]
+
+    What fruits are commonly available in the autumn season?
+        [Image of autumn fruits]
+
+    Identify the season shown in the picture.
+        [Image of snow-covered landscape]
+
+    Which season brings colorful leaves to the trees?
+        [Image of trees with colorful leaves]
+
+    Which season is associated with blooming flowers?
+        [Image of blooming flowers]
+
+    What activities do people often do in the winter season?
+        [Image of winter activities]
+
+    Name the season that marks the beginning of the school year.
+        [Image of school-related items]
+
+Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover various aspects of seasons. Use the provided descriptions of images or scenes in square brackets for visual engagement."
