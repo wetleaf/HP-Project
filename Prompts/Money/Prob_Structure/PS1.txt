@@ -1,0 +1,54 @@
+1."Generate an educational worksheet covering diverse topics for [grade level or age group]. Each problem should have a brief description of an image or object in square brackets for visual engagement:
+
+    Wants and Needs - Vocabulary: Match the vocabulary words to their meanings.
+        Example: [Image of a shopping cart], [Image of a house]
+
+    Money - Finance Vocabulary: Fill in the blanks with the correct finance-related words.
+        Example: A bank is a place where you can [Image of coins] and [Image of bills].
+
+    Money - Uses of Money: Write down three different ways you can use money.
+        Example: [Image of a toy], [Image of a book], [Image of a bus ticket]
+
+    Money - Design Your Money: Draw your own currency and give it a name.
+        Example: [Image of a blank money template]
+
+    Money - Comparing Costs: Compare the costs of two items and circle the cheaper one.
+        Example: [Image of item A], [Image of item B]
+
+Please continue with similar problems for the remaining numbers, ensuring they cover a variety of topics and are suitable for [grade level or age group]. Use the provided descriptions of images or objects in square brackets where appropriate. Limit yourself to 10 problems per prompt. No need to tell the answers."
+
+
+
+2."Generate an educational worksheet with shopping-related problems for [grade level or age group]. Include a maximum of 10 to 20 problems, each consisting of images of daily items like a scarf, boots, pen, bag, tiffin box, water bottle, etc., with a price tag beside each item. Do not include answers.
+
+For each problem, provide the following format:
+
+Problem [Problem Number]:
+You are given a particular amount of money. Look at the images and price tags of the items. Determine if you can buy the specified items with the given amount of money.
+
+    [Image of a scarf] - Price: $10
+    [Image of boots] - Price: $15
+    [Image of a pen] - Price: $2
+    [Image of a bag] - Price: $8
+    [Image of a tiffin box] - Price: $7
+    [Image of a water bottle] - Price: $3
+
+Questions:
+
+    Can you buy the scarf?
+        Yes
+        No
+
+    Can you buy the boots and hat?
+        Yes
+        No
+
+    Can you buy the jacket and sledge?
+        Yes
+        No
+
+    Can you buy the mittens?
+        Yes
+        No
+
+Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover shopping-related concepts. Use the provided descriptions of images or objects in square brackets for visual engagement."
