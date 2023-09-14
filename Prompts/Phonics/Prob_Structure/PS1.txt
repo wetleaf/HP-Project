@@ -1,0 +1,19 @@
+1."Generate a worksheet with word problems that involve filling in the blanks to find answers. Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
+
+    Something that you receive on your birthday.
+        Blank 1: [A gift wrapped with a bow]
+    Money in the bank for the future:
+        Blank 1: [Savings account with dollar bills]
+    Paid position of employment:
+        Blank 1: [Briefcase with money symbol]
+
+Please include more similar word problems in the worksheet. Make sure it is visually engaging and suitable for a printed worksheet format."
+
+2.Generate a worksheet with word problems that involve filling in the blanks with the correct homophones. Provide a brief description of an image or object in square brackets where appropriate:
+
+    We are not _______________ to play in the bedroom.
+        Blank 1: [A 'allowed' sign with a red circle and line through it]
+    John _____________ his dinner on time.
+        Blank 1: [A clock showing dinnertime]
+
+Please include more word problems in this format, focusing on different homophones. Make sure it is visually engaging and suitable for a printed worksheet format."
