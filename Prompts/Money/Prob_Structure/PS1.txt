@@ -52,3 +52,7 @@ Questions:
         No
 
 Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover shopping-related concepts. Use the provided descriptions of images or objects in square brackets for visual engagement."
+
+
+3.Create an educational worksheet for 8-9-year-olds that covers counting coins. Include a variety of images of coins, including pennies, nickels, dimes, and quarters. Ask students to count the total value of each set of coins and provide a brief description of the coin sets in square brackets for visual engagement. Additionally, include a section where students have to draw a certain amount using a combination of coins. Do not include answers."
+
