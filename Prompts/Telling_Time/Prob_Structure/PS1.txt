@@ -1,0 +1,9 @@
+    1."Create an educational worksheet for 8-9-year-olds to practice reading analog clocks. Include problems like 'Draw the clock hands to show 4:30.' and 'What time is it when the hour hand points to 8 and the minute hand points to 2?' Provide visual representations of analog clocks for each problem. Include a brief description of the clock layout. Do not include answers."
+
+    2."Generate a worksheet for 8-9-year-olds to practice telling time on analog clocks. Include a question like 'If the minute hand is on the 6 and the hour hand is on the 3, what time is it?' and provide an image of an analog clock. Include a brief description of the clock image. Do not include answers."
+
+    3."Design an educational worksheet for 8-9-year-olds to practice reading analog clocks. Include a problem like 'Look at the clock. What time does it show?' and provide an image of an analog clock. Write a brief description of the clock image for visual engagement. Do not include answers."
+
+    4. "Create a worksheet for 8-9-year-olds to practice converting analog clock readings into digital time. Include problems with analog clock images and ask students to write the corresponding digital time. Provide a brief description of the clock images. Do not include answers."
+
+    5."Generate an educational worksheet for 8-9-year-olds to practice matching analog clocks to digital time. Provide a set of analog clock images and ask students to match each one to the correct digital time. Include a brief description of the clock images for visual engagement. Do not include answers."
