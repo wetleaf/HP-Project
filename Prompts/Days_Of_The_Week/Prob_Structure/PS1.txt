@@ -1,1 +1,6 @@
 1.Generate a problem for 5th-grade students that involves problems based on 'Days of the Week'. The problem can include ordering the days in order  or any other interesting problems related to the days of the week.  Please ensure the problem is visually engaging and suitable for a math worksheet.
+
+
+2."Generate an educational worksheet for 8-9-year-olds covering math and measurement topics. Include a problem that requires students to connect the days of the week in order with a pencil. Each day of the week should be written on the page at different locations, and the students must draw lines to connect them in the correct order. Provide a brief description of the page's layout and the locations of the days of the week for visual engagement. Do not include answers."
+
+3.Design a crossword puzzle for 8-year-olds that features the days of the week. Create clues related to specific activities or events associated with each day. Write a description of the crossword puzzle, emphasizing the need to solve the clues and fill in the day names. Include space for students to write in their answers. Do not provide the answers."
