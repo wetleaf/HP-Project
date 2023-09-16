@@ -1,4 +1,4 @@
-1."Generate a worksheet with word problems that involve filling in the blanks to find answers. Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
+1.Generate a worksheet with word problems that involve filling in the blanks to find answers. Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
 
     Something that you receive on your birthday.
         Blank 1: [A gift wrapped with a bow]
@@ -16,9 +16,9 @@ Please include more similar word problems in the worksheet. Make sure it is visu
     John _____________ his dinner on time.
         Blank 1: [A clock showing dinnertime]
 
-Please include more word problems in this format, focusing on different homophones. Make sure it is visually engaging and suitable for a printed worksheet format."
+Please include more word problems in this format, focusing on different homophones. Make sure it is visually engaging and suitable for a printed worksheet format.
 
-3."Generate a phonics worksheet for 8-9-year-olds. Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
+3.Generate a phonics worksheet for 8-9-year-olds. Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
 
     Beginning Sounds: Write the beginning sound of the following words.
         Example: Cat [Image of a cat]
@@ -35,4 +35,4 @@ Please include more word problems in this format, focusing on different homophon
     SH Beginning Sound: Write the beginning sound of the word 'ship.'
         Example: [Image of a ship]
 
-Please continue with similar phonics problems for the remaining numbers, ensuring they are visually engaging and suitable for an educational worksheet format. Use the provided descriptions of images or objects in square brackets where appropriate."
+Please continue with similar phonics problems for the remaining numbers, ensuring they are visually engaging and suitable for an educational worksheet format. Use the provided descriptions of images or objects in square brackets where appropriate.

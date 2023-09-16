@@ -1,9 +1,9 @@
-1.Create an educational worksheet for 8-9-year-olds to identify and continue clock time patterns. Include questions like 'Identify the pattern in the clock times (e.g., every hour the minute hand is at 12).' and 'Continue the pattern by filling in the missing clock times.' Do not include answers."
+1.Create an educational worksheet for 8-9-year-olds to identify and continue clock time patterns. Include questions like 'Identify the pattern in the clock times (e.g., every hour the minute hand is at 12).' and 'Continue the pattern by filling in the missing clock times.' Do not include answers.
 
-2.Generate an educational worksheet for 8-9-year-olds to solve clock puzzles. Include puzzles where students must arrange clock pieces to complete the puzzle and form a valid time on each clock face. Write a description of the puzzle format. Do not include answers."
-
-
-3.Create an educational worksheet for 8-9-year-olds to practice matching digital times to analog clock faces. Include a set of digital times and ask students to draw lines connecting each digital time to the correct analog clock image. Provide a brief description of the clock images. Do not include answers."
+2.Generate an educational worksheet for 8-9-year-olds to solve clock puzzles. Include puzzles where students must arrange clock pieces to complete the puzzle and form a valid time on each clock face. Write a description of the puzzle format. Do not include answers.
 
 
-4.Design a worksheet for 8-9-year-olds to practice matching analog clock images to digital time. Provide a series of analog clocks, and ask students to draw lines to connect each analog clock to its corresponding digital time. Include a brief description of the clock images. Do not include answers."
+3.Create an educational worksheet for 8-9-year-olds to practice matching digital times to analog clock faces. Include a set of digital times and ask students to draw lines connecting each digital time to the correct analog clock image. Provide a brief description of the clock images. Do not include answers.
+
+
+4.Design a worksheet for 8-9-year-olds to practice matching analog clock images to digital time. Provide a series of analog clocks, and ask students to draw lines to connect each analog clock to its corresponding digital time. Include a brief description of the clock images. Do not include answers.

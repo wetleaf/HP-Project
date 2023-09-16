@@ -1,4 +1,4 @@
-1."Generate an educational worksheet covering diverse topics for [grade level or age group]. Each problem should have a brief description of an image or object in square brackets for visual engagement:
+1.Generate an educational worksheet covering diverse topics for [grade level or age group]. Each problem should have a brief description of an image or object in square brackets for visual engagement:
 
     Wants and Needs - Vocabulary: Match the vocabulary words to their meanings.
         Example: [Image of a shopping cart], [Image of a house]
@@ -15,11 +15,11 @@
     Money - Comparing Costs: Compare the costs of two items and circle the cheaper one.
         Example: [Image of item A], [Image of item B]
 
-Please continue with similar problems for the remaining numbers, ensuring they cover a variety of topics and are suitable for [grade level or age group]. Use the provided descriptions of images or objects in square brackets where appropriate. Limit yourself to 10 problems per prompt. No need to tell the answers."
+Please continue with similar problems for the remaining numbers, ensuring they cover a variety of topics and are suitable for [grade level or age group]. Use the provided descriptions of images or objects in square brackets where appropriate. Limit yourself to 10 problems per prompt. No need to tell the answers.
 
 
 
-2."Generate an educational worksheet with shopping-related problems for [grade level or age group]. Include a maximum of 10 to 20 problems, each consisting of images of daily items like a scarf, boots, pen, bag, tiffin box, water bottle, etc., with a price tag beside each item. Do not include answers.
+2.Generate an educational worksheet with shopping-related problems for [grade level or age group]. Include a maximum of 10 to 20 problems, each consisting of images of daily items like a scarf, boots, pen, bag, tiffin box, water bottle, etc., with a price tag beside each item. Do not include answers.
 
 For each problem, provide the following format:
 
@@ -51,8 +51,8 @@ Questions:
         Yes
         No
 
-Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover shopping-related concepts. Use the provided descriptions of images or objects in square brackets for visual engagement."
+Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover shopping-related concepts. Use the provided descriptions of images or objects in square brackets for visual engagement.
 
 
-3.Create an educational worksheet for 8-9-year-olds that covers counting coins. Include a variety of images of coins, including pennies, nickels, dimes, and quarters. Ask students to count the total value of each set of coins and provide a brief description of the coin sets in square brackets for visual engagement. Additionally, include a section where students have to draw a certain amount using a combination of coins. Do not include answers."
+3.Create an educational worksheet for 8-9-year-olds that covers counting coins. Include a variety of images of coins, including pennies, nickels, dimes, and quarters. Ask students to count the total value of each set of coins and provide a brief description of the coin sets in square brackets for visual engagement. Additionally, include a section where students have to draw a certain amount using a combination of coins. Do not include answers.
 
