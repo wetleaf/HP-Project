@@ -7,3 +7,6 @@
 
 
 4.Design a worksheet for 8-9-year-olds to practice matching analog clock images to digital time. Provide a series of analog clocks, and ask students to draw lines to connect each analog clock to its corresponding digital time. Include a brief description of the clock images. Do not include answers.
+
+5. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the basic agenda of the worksheet will be to draw a schematic of a clock on the basis of the positioning of the sun or the moon in the sky roughly. 
+make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers, and give spaces to write the answer after each question
