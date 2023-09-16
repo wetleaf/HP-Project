@@ -14,4 +14,5 @@ make the questions by writing a description of image in closed square brackets. 
 6. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the basic agenda of the worksheet will be to tell what analog clock is closer to a particular given time in text. but the which clock is closer to xyz time in a place other than the image, wrtie it in text below that
 make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question
 
-7. 
+7. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to find the difference of time between the images of two analog clocks given.
+make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question
