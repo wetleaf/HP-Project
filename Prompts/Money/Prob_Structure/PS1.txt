@@ -56,3 +56,11 @@ Please ensure that the worksheet problems are suitable for the intended grade le
 
 3.Create an educational worksheet for 8-9-year-olds that covers counting coins. Include a variety of images of coins, including pennies, nickels, dimes, and quarters. Ask students to count the total value of each set of coins and provide a brief description of the coin sets in square brackets for visual engagement. Additionally, include a section where students have to draw a certain amount using a combination of coins. Do not include answers.
 
+4. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to calculate change generated on buying different products with difference currency notes, use images to tell the prices of different commodities.
+make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question give multiple problems in one worksheet
+
+5. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to calculate the conversion of currency from one format to another, use simpler numbers to make the calculation easy. use images of different currency notes, and add the flag of the countries as well to give a briefer overview of the question.
+make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question give multiple problems in one worksheet
+
+6. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to calculate profit and loss in a business environment and use images to depict a shop and sale of multiple goods at same rates.
+make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question give multiple problems in one worksheet
