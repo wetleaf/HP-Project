@@ -1,0 +1,4 @@
+Can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student toMatch the Season to the Clothing: Display pictures of different types of clothing (e.g., swimsuit, winter coat, rain boots) and have the child match them to the season when they are typically worn.
+
+Make the questions by writing a description of image in closed square brackets. 
+Write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question give multiple problems in one worksheet
