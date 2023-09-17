@@ -1,0 +1,4 @@
+Design an educational worksheet for 8-9-year-olds to practice reading analog clocks. 
+Include a problem like 'Look at the clock. What time does it show?' and provide an image of an analog clock. 
+Write a brief description of the clock image for visual engagement. 
+Do not include answers.

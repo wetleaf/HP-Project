@@ -1,4 +1,5 @@
-1.Generate a worksheet with word problems that involve filling in the blanks to find answers. Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
+Generate a worksheet with word problems that involve filling in the blanks to find answers. 
+Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
 
     Something that you receive on your birthday.
         Blank 1: [A gift wrapped with a bow]
@@ -7,32 +8,5 @@
     Paid position of employment:
         Blank 1: [Briefcase with money symbol]
 
-Please include more similar word problems in the worksheet. Make sure it is visually engaging and suitable for a printed worksheet format."
-
-2.Generate a worksheet with word problems that involve filling in the blanks with the correct homophones. Provide a brief description of an image or object in square brackets where appropriate:
-
-    We are not _______________ to play in the bedroom.
-        Blank 1: [A 'allowed' sign with a red circle and line through it]
-    John _____________ his dinner on time.
-        Blank 1: [A clock showing dinnertime]
-
-Please include more word problems in this format, focusing on different homophones. Make sure it is visually engaging and suitable for a printed worksheet format.
-
-3.Generate a phonics worksheet for 8-9-year-olds. Include the following problems and provide a brief description of an image or object in square brackets where appropriate:
-
-    Beginning Sounds: Write the beginning sound of the following words.
-        Example: Cat [Image of a cat]
-
-    Rhyming Words: Identify and write two words that rhyme with 'cat.'
-        Example: [Image of a hat], [Image of a mat]
-
-    Ending Sound: Write the ending sound of the word 'dog.'
-        Example: [Image of a dog]
-
-    Phonics: Match the pictures with their beginning sounds.
-        Example: [Image of a cat], [Image of a cake], [Image of a dog]
-
-    SH Beginning Sound: Write the beginning sound of the word 'ship.'
-        Example: [Image of a ship]
-
-Please continue with similar phonics problems for the remaining numbers, ensuring they are visually engaging and suitable for an educational worksheet format. Use the provided descriptions of images or objects in square brackets where appropriate.
+Please include more similar word problems in the worksheet. 
+Make sure it is visually engaging and suitable for a printed worksheet format.

@@ -1,0 +1,37 @@
+Generate an educational worksheet with shopping-related problems for [grade level or age group]. 
+Include a maximum of 10 to 20 problems, each consisting of images of daily items like a scarf, boots, pen, bag, tiffin box, water bottle, etc., with a price tag beside each item. 
+Do not include answers.
+
+For each problem, provide the following format:-
+Problem [Problem Number]:
+You are given a particular amount of money. 
+Look at the images and price tags of the items. 
+Determine if you can buy the specified items with the given amount of money.
+
+    [Image of a scarf] - Price: $10
+    [Image of boots] - Price: $15
+    [Image of a pen] - Price: $2
+    [Image of a bag] - Price: $8
+    [Image of a tiffin box] - Price: $7
+    [Image of a water bottle] - Price: $3
+
+Questions:
+
+    Can you buy the scarf?
+        Yes
+        No
+
+    Can you buy the boots and hat?
+        Yes
+        No
+
+    Can you buy the jacket and sledge?
+        Yes
+        No
+
+    Can you buy the mittens?
+        Yes
+        No
+
+Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover shopping-related concepts. 
+Use the provided descriptions of images or objects in square brackets for visual engagement.

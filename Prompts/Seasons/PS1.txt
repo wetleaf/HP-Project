@@ -1,4 +1,6 @@
-1.Generate an educational worksheet for [grade level or age group] focusing on seasons. Include a maximum of 10 to 20 problems, each consisting of a question related to seasons, accompanied by images of relevant items or scenes. Do not include answers.
+Generate an educational worksheet for [grade level or age group] focusing on seasons. 
+Include a maximum of 10 to 20 problems, each consisting of a question related to seasons, accompanied by images of relevant items or scenes. 
+Do not include answers.
 
 For each problem, provide the following format:
 
@@ -29,8 +31,5 @@ Examine the images and answer the questions related to seasons.
     Name the season that marks the beginning of the school year.
         [Image of school-related items]
 
-Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover various aspects of seasons. Use the provided descriptions of images or scenes in square brackets for visual engagement.
-
-2.Create an educational worksheet for 8-9-year-olds that involves understanding the seasons and calendar months. Provide a blank calendar template with spaces for the months of the year. Ask students to label each month with the appropriate season (e.g., December labeled as winter, June labeled as summer). Additionally, encourage students to mark holidays and events associated with each season. Include a brief description of the calendar layout and instructions for visual engagement. Do not include answers.
-
-3.Design an educational worksheet for 8-9-year-olds that encourages exploration and observation of the world during different seasons. Create a checklist with items or phenomena to look for during a specific season. Include images or brief descriptions of the items in square brackets for visual engagement. Instruct students to check off or mark the items as they find them during the season. Provide a brief description of the scavenger hunt and the season it corresponds to. Do not include answers.
+Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover various aspects of seasons. 
+Use the provided descriptions of images or scenes in square brackets for visual engagement.

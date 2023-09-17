@@ -1,4 +1,5 @@
-1.Generate an educational worksheet covering diverse topics for [grade level or age group]. Each problem should have a brief description of an image or object in square brackets for visual engagement:
+Generate an educational worksheet covering diverse topics for [grade level or age group]. 
+Each problem should have a brief description of an image or object in square brackets for visual engagement:
 
     Wants and Needs - Vocabulary: Match the vocabulary words to their meanings.
         Example: [Image of a shopping cart], [Image of a house]
@@ -15,52 +16,7 @@
     Money - Comparing Costs: Compare the costs of two items and circle the cheaper one.
         Example: [Image of item A], [Image of item B]
 
-Please continue with similar problems for the remaining numbers, ensuring they cover a variety of topics and are suitable for [grade level or age group]. Use the provided descriptions of images or objects in square brackets where appropriate. Limit yourself to 10 problems per prompt. No need to tell the answers.
-
-
-
-2.Generate an educational worksheet with shopping-related problems for [grade level or age group]. Include a maximum of 10 to 20 problems, each consisting of images of daily items like a scarf, boots, pen, bag, tiffin box, water bottle, etc., with a price tag beside each item. Do not include answers.
-
-For each problem, provide the following format:
-
-Problem [Problem Number]:
-You are given a particular amount of money. Look at the images and price tags of the items. Determine if you can buy the specified items with the given amount of money.
-
-    [Image of a scarf] - Price: $10
-    [Image of boots] - Price: $15
-    [Image of a pen] - Price: $2
-    [Image of a bag] - Price: $8
-    [Image of a tiffin box] - Price: $7
-    [Image of a water bottle] - Price: $3
-
-Questions:
-
-    Can you buy the scarf?
-        Yes
-        No
-
-    Can you buy the boots and hat?
-        Yes
-        No
-
-    Can you buy the jacket and sledge?
-        Yes
-        No
-
-    Can you buy the mittens?
-        Yes
-        No
-
-Please ensure that the worksheet problems are suitable for the intended grade level or age group and cover shopping-related concepts. Use the provided descriptions of images or objects in square brackets for visual engagement.
-
-
-3.Create an educational worksheet for 8-9-year-olds that covers counting coins. Include a variety of images of coins, including pennies, nickels, dimes, and quarters. Ask students to count the total value of each set of coins and provide a brief description of the coin sets in square brackets for visual engagement. Additionally, include a section where students have to draw a certain amount using a combination of coins. Do not include answers.
-
-4. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to calculate change generated on buying different products with difference currency notes, use images to tell the prices of different commodities.
-make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question give multiple problems in one worksheet
-
-5. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to calculate the conversion of currency from one format to another, use simpler numbers to make the calculation easy. use images of different currency notes, and add the flag of the countries as well to give a briefer overview of the question.
-make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question give multiple problems in one worksheet
-
-6. can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to calculate profit and loss in a business environment and use images to depict a shop and sale of multiple goods at same rates.
-make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question give multiple problems in one worksheet
+Please continue with similar problems for the remaining numbers, ensuring they cover a variety of topics and are suitable for [grade level or age group]. 
+Use the provided descriptions of images or objects in square brackets where appropriate. 
+Limit yourself to 10 problems per prompt. 
+No need to tell the answers.

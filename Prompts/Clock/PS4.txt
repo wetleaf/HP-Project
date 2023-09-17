@@ -1,0 +1,4 @@
+Design a worksheet for 8-9-year-olds to practice matching analog clock images to digital time. 
+Provide a series of analog clocks, and ask students to draw lines to connect each analog clock to its corresponding digital time. 
+Include a brief description of the clock images. 
+Do not include answers.

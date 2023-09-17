@@ -1,0 +1,5 @@
+Generate an educational worksheet for 8-9-year-olds covering math and measurement topics. 
+Include a problem that requires students to connect the days of the week in order with a pencil. 
+Each day of the week should be written on the page at different locations, and the students must draw lines to connect them in the correct order. 
+Provide a brief description of the page's layout and the locations of the days of the week for visual engagement. 
+Do not include answers.

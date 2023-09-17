@@ -1,0 +1,6 @@
+Design an educational worksheet for 8-9-year-olds that encourages exploration and observation of the world during different seasons. 
+Create a checklist with items or phenomena to look for during a specific season. 
+Include images or brief descriptions of the items in square brackets for visual engagement. 
+Instruct students to check off or mark the items as they find them during the season. 
+Provide a brief description of the scavenger hunt and the season it corresponds to. 
+Do not include answers.

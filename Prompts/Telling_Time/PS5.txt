@@ -1,0 +1,4 @@
+Generate an educational worksheet for 8-9-year-olds to practice matching analog clocks to digital time. 
+Provide a set of analog clock images and ask students to match each one to the correct digital time. 
+Include a brief description of the clock images for visual engagement. 
+Do not include answers.

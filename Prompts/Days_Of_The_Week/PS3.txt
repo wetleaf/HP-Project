@@ -1,0 +1,5 @@
+Design a crossword puzzle for 8-year-olds that features the days of the week. 
+Create clues related to specific activities or events associated with each day. 
+Write a description of the crossword puzzle, emphasizing the need to solve the clues and fill in the day names. 
+Include space for students to write in their answers. 
+Do not provide the answers.

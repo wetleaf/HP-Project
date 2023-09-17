@@ -1,0 +1,4 @@
+Can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the basic agenda of the worksheet will be for one to mark the happy days of the week, where happy days are days of holiday for students
+Example: If 1st September is a monday, and 3rd september is a national holiday what all days will be happy days in the week (answer being wednesday, saturday sunday)
+Make the questions by writing a description of image in closed square brackets. 
+Write a description of what to do at the top of the worksheet, and do not include answers

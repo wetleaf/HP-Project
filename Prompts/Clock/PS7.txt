@@ -1,0 +1,2 @@
+Can you generate an educational worksheet for a student of 8-9 years age, studying in an icse medium school, where the agenda of the worksheet is for the student to find the difference of time between the images of two analog clocks given.
+make the questions by writing a description of image in closed square brackets. write a description of what to do at the top of the worksheet, and do not include answers give spaces to write the answer after each question

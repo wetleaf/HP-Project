@@ -1,0 +1,4 @@
+Create a worksheet for 8-9-year-olds to practice converting analog clock readings into digital time. 
+Include problems with analog clock images and ask students to write the corresponding digital time. 
+Provide a brief description of the clock images. 
+Do not include answers.

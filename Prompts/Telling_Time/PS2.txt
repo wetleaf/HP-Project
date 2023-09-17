@@ -1,0 +1,4 @@
+Generate a worksheet for 8-9-year-olds to practice telling time on analog clocks. 
+Include a question like 'If the minute hand is on the 6 and the hour hand is on the 3, what time is it?' and provide an image of an analog clock. 
+Include a brief description of the clock image. 
+Do not include answers.
