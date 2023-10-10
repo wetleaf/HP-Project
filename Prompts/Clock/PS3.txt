@@ -1,4 +1,4 @@
-Create an educational worksheet for 8-9-year-olds to practice matching digital times to analog clock faces. 
-Include a set of digital times and ask students to draw lines connecting each digital time to the correct analog clock image. 
+Create an educational worksheet for 8-9-year-olds to practice matching digital times on the left column to analog clock faces on the right column. 
+Include a set of digital times and ask students to draw lines connecting each digital time on the left column to the correct analog clock image on the right column. 
 Provide a brief description of the clock images. 
 Do not include answers.
