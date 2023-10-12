@@ -22,7 +22,7 @@ Answers:
 Arguments:
 ```
 Years: 8 to 9
-Number of Questions: 10
+Number: 10
 Difficulty: Easy
 Topic: Phonics
 Sub-Topic: Consonants and Vowels
