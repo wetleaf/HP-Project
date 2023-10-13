@@ -1,16 +1,18 @@
 Arguments:
 ```
 Years: 8 to 9
-Number: 10
-Difficulty: Easy
-Topic: Days of the Week
+Number: 3
+Topic: Money
 Country: India
 ```
 
-From the topic [Topic], create [Number] type of questions for students of [Country] aged [Years] of [Difficulty] difficulty level.
+From the topic [Topic], create [Number] question types for students of [Country] aged [Years].
 
 Instructions:
 1. Create types of questions, not questions.
+2. Ensure region-specific words are used, example, in cases of money.
+3. Ensure the questions types can be answered by students of the given age.
+4. Ensure the questions have variables that are easily substitutable.
 
 Desired Format:
 ```
