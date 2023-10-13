@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# HP-Project
+=======
 # HP-Project
 
 ## Worsksheets 
@@ -93,7 +96,6 @@ Note: It may require some hard code or manual work since we have to make the pro
 4. Arsh:
 5. Harsh:
 
-
 Other Useful Links
 1. https://github.com/Atomic-man007/Awesome_Multimodel_LLM
 2. https://github.com/huggingface/transformers/tree/main/src/transformers/models
@@ -105,3 +107,8 @@ Other Useful Links
 2. We will be finished with ***Step 3*** by **18th Sep 2023**
 
 3. Last Step, we will sit and discuss what best can be done to automate the task.
+
+
+
+
+>>>>>>> 4370696 (TO DO)
