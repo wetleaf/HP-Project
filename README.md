@@ -85,29 +85,14 @@ Mostly It serves our purpose but require a lot of training.
 
 **WORK TO DO:** Now we have problems and their respective images. Our Task is to replace the "[]" Text with Its respective image and respresent it as a form of single img which can be concatenated to pdf
 
-Note: It may require some hard code or manual work since we have to make the problem interactive and creative.
+Note: It may require some hard code or manual work since we have to make the problem interactive and creative. We can use GPT4 Plugin to some extent.
 
-**References:** Python Library can do it
 
-**Work Division**
-1. Vishal:
-2. Ratna:
-3. Parth:
-4. Arsh:
-5. Harsh:
 
 Other Useful Links
 1. https://github.com/Atomic-man007/Awesome_Multimodel_LLM
 2. https://github.com/huggingface/transformers/tree/main/src/transformers/models
    
-## Deadline
-
-1. We will do almost all the work in parallel. 
-
-2. We will be finished with ***Step 3*** by **18th Sep 2023**
-
-3. Last Step, we will sit and discuss what best can be done to automate the task.
-
 
 
 
