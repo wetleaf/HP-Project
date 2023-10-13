@@ -1,4 +1,4 @@
-Generate an educational worksheet for 8-9-year-olds to solve clock puzzles. 
-Include puzzles where students must arrange clock pieces to complete the puzzle and form a valid time on each clock face. 
+Generate an educational worksheet for *3-5-year-olds to solve clock puzzles. 
+Include puzzles where students must arrange the clock pieces to complete the puzzle and form a valid time on each clock face. 
 Write a description of the puzzle format. 
 Do not include answers.
