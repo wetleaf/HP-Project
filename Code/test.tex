@@ -1,0 +1,81 @@
+\documentclass{article}
+\usepackage{lipsum}%% a garbage package you don't need except to create examples.
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  left=40px,
+  right=40px,
+  top=73px,
+  bottom=50px,
+}
+
+\pagestyle{fancy}
+  
+% \lhead{ \LARGE \textbf{MATCH THE FOLLOWING}}
+\rfoot{printlearncenter.com}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+
+\usepackage{adjustbox}
+\usepackage{dashbox}
+\usepackage{tikz}
+
+
+
+\begin{document}
+\lhead{ \LARGE \textbf{MATCH THE FOLLOWING}}
+
+\begin{adjustbox}{minipage=[s][\pdfpageheight-133px][s]{\pdfpagewidth-90px},precode=\dbox}
+\vspace{20px}
+
+\lipsum[20]
+
+
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-90px,yshift= -53px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/thumps.jpg}};
+\end{tikzpicture}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-117px,yshift= -53px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/thumps.jpg}};
+\end{tikzpicture}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-146px,yshift= -53px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/thumps.jpg}};
+\end{tikzpicture}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-158px,yshift= -\pdfpageheight+36px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/hp.jpg}};
+\end{tikzpicture}
+\end{adjustbox}
+
+\newpage
+
+\lhead{ \LARGE \textbf{MATCH THE }}
+
+\begin{adjustbox}{minipage=[s][\pdfpageheight-133px][s]{\pdfpagewidth-90px},precode=\dbox}
+\vspace{20px}
+
+\lipsum[20]
+
+
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-90px,yshift= -53px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/thumps.jpg}};
+\end{tikzpicture}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-117px,yshift= -53px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/thumps.jpg}};
+\end{tikzpicture}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-146px,yshift= -53px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/thumps.jpg}};
+\end{tikzpicture}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[xshift=\pdfpagewidth-158px,yshift= -\pdfpageheight+36px,anchor=north west] at (current page.north west){%
+  \includegraphics[width=10mm]{images/hp.jpg}};
+\end{tikzpicture}
+\end{adjustbox}
+
+\end{document}

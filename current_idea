@@ -1,0 +1,13 @@
+Given a worksheet and different level
+Consider we have Clock worksheet for preschool:
+
+(1) Create sample prompt to create template for some problem types 
+(2) Either use our prompt or [Provide them a way to generate similar kind of prompt for different problem types]
+(3) Now integrate the prompt output with the final worksheet format.
+
+-> Need to generate
+Create a General Prompt which takes
+1) Sample Template [Should be same for all prompt]
+2) Problem topic   
+3) Problem topic description (With Example If possible)
+4) Difficulty level

@@ -1,0 +1,22 @@
+\documentclass{article}%
+\usepackage{lastpage}%
+\usepackage{geometry}%
+\geometry{a4paper,left=40px,right=40px,top=73px,bottom=50px,}%
+\usepackage{adjustbox}%
+%
+\usepackage{fancyhdr}%
+\usepackage{dashbox}%
+\usepackage{tikz}%
+\pagestyle{fancy}%
+\renewcommand{\headrulewidth}{0.0pt}%
+\renewcommand{\footrulewidth}{0.0pt}%
+\rfoot{printlearncenter.com}%
+%
+\begin{document}%
+\normalsize%
+\lhead{\LARGE \textbf{Question}}%
+Hello%
+\begin{adjustbox}{minipage=[s][\pdfpageheight-133px][s]{\pdfpagewidth-90px},precode=\dbox}
+Hello
+\end{adjustbox}%
+\end{document}
