@@ -1,0 +1,172 @@
+[Prompt]
+Create a {Problem Type} problem on topic {Workseet} for {Years} Kids considering {Worksheet Description} and following [Instructions].
+Take the temperature value for output generation to be {Temperature}
+Do not give the same output
+Also do not move astray from {Problem Type} for output generation
+
+[Arguments]
+
+Temperature:0.5
+Years: 3-5 Years
+Worksheet: Seasons
+Problem Type: Match the following
+Problem Type Description: "Match the Following" is a type of educational or assessment activity where students or participants are presented with two columns. The first column typically contains a list of items, terms, concepts, or questions, while the second column contains a corresponding set of answers, definitions, or solutions in some random order. The goal is to match items from the first column with their correct counterparts in the second column.
+
+
+[Instructions]
+(1) Provide the detailed but concise description of images in the place of image.
+(2) Mark all the image description inside the tag <Image> [Image Description] </Image>.
+(3) Mark all the text description inside the tag <Text> Text </Text>.
+(4) Adhere to the format mentioned.
+(5) Provide an attractive name to the problem in the Place of Problem Name
+(6) Provide all the details of the problem inside the tag <JSON> [Problem Detail] </JSON>
+
+[Format]
+<JSON>
+{
+    Name: [Attractive Name]
+    Description: [Describe the Problem]
+    Problem:{
+        Total Columns: N
+        Columns:{
+            Column 1 Name:{
+                Size: A_1,
+                Entries:[
+                Column 1 Entry 1,
+                Column 1 Entry 2,
+                ...
+                Column 1 Entry A_1
+                ]
+            },
+            Column 2 Name:{
+                Size: A_2,
+                Entries:[
+                Column 2 Entry 1,
+                Column 2 Entry 2,
+                ...
+                Column 2 Entry A_2
+                ]
+            } 
+            ...
+            Column N Name:{
+                Size: A_N,
+                Entries:[
+                Column N Entry 1,
+                Column N Entry 2,
+                ...
+                Column N Entry A_N
+                ]
+            }
+        }
+    }
+}
+</JSON>
+
+[Examples]
+
+Example 1:
+
+<JSON>
+{
+    Name: Currency Names to Countries
+    Description: Left column of the problem contains the currency names and the right column contains the name of the country that uses that column. The right column should be in random order
+    Problem:{
+        Total Columns: 2
+        Columns: {
+            Currency Name:{
+                Size: 7
+                Entries:[
+                    <Text>Dollar</Text>,
+                    <Text>Euro</Text>,
+                    <Text>Pound</Text>,
+                    <Text>Yen</Text>,
+                    <Text>Rupee</Text>,
+                    <Text>Franc</Text>,
+                    <Text>Won</Text>
+                ]
+            }
+            Country:{
+                Size: 7
+                Entries:[
+                    <Text>India</Text>,
+                    <Text>Japan</Text>,
+                    <Text>United States of America</Text>,
+                    <Text>European Union</Text>,
+                    <Text>United Kingdom</Text>,
+                    <Text>South Korea</Text>,
+                    <Text>France</Text>
+                ]
+            }
+        }
+    }  
+}
+</JSON>
+Example 2:
+<JSON>
+{
+    Name: Analog to Digital Clock Mapping
+    Description: Match the images of the Analog Clock from Column 1 to their equivalent Digital Clock timings which are in some random order in Column 2
+    Problem:{
+        Total Columns: 2
+        Columns: {
+            Analog Clock:{
+                Size: 5
+                Entries:[
+                    <Image> White Colored Analog Clock Showing five 'o' clock  </Image>,
+                    <Image> White Colored Analog Clock Showing thirty past seven  </Image>,
+                    <Image> White Colored Analog Clock Showing nine 'o' clock  </Image>,
+                    <Image> White Colored Analog Clock Showing eleven 'o' clock  </Image>, 
+                    <Image> White Colored Analog Clock Showing two 'o' clock  </Image>,
+                    <Image> White Colored Analog Clock Showing quarter to two  </Image>
+                ]
+            }
+            Digital Clock:{
+                Size: 5
+                Entries:[
+                    <Text> 7:30 </Text>,
+                    <Text>2:00</Text>,
+                    <Text>1:45</Text>,
+                    <Text>5:00</Text>,
+                    <Text>11:00</Text>
+                ]
+            }
+        }
+    }  
+}
+</JSON>
+
+Example 3
+
+<JSON>
+{
+    Name: Relation of person and their gender
+    Description: The left column contains the relation of a person and the right column contains the gender of that person
+    Problem:{
+        Total Columns: 2
+        Columns: {
+            Analog Clock:{
+                Size: 9
+                Entries:[
+                    <Text>Aunt</Text>,
+                    <Text>Niece</Text>,
+                    <Text>Uncle</Text>,
+                    <Text>Dad</Text>,
+                    <Text>Mother</Text>,
+                    <Text>Sister</Text>,
+                    <Text>Friend</Text>,
+                    <Text>Sibling</Text>,
+                    <Text>Brother</Text>
+                ]
+            }
+            Digital Clock:{
+                Size: 3
+                Entries:[
+                    <Text>Male</Text>,
+                    <Text>Female</Text>,
+                    <Text>Can't Tell</Text>
+                ]
+            }
+        }
+    }  
+}
+</JSON>
