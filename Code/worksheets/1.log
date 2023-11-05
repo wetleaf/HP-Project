@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  5 NOV 2023 12:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  5 NOV 2023 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/harshit/Data/IITH/Tinkerer'sLab/HP-Project/HP-Project/Code/test.tex
-(/home/harshit/Data/IITH/Tinkerer'sLab/HP-Project/HP-Project/Code/test.tex
+**/home/harshit/Data/IITH/Tinkerer'sLab/HP-Project/HP-Project/Code/worksheets/1.tex
+(/home/harshit/Data/IITH/Tinkerer'sLab/HP-Project/HP-Project/Code/worksheets/1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -354,8 +354,8 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@expandcount=\count295
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (./test.aux)
-\openout1 = `test.aux'.
+))) (./1.aux)
+\openout1 = `1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
@@ -425,30 +425,36 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
 <images/thumps.jpg, id=4, 542.025pt x 575.90157pt>
 File: images/thumps.jpg Graphic file (type jpg)
 <use images/thumps.jpg>
-Package pdftex.def Info: images/thumps.jpg  used on input line 38.
+Package pdftex.def Info: images/thumps.jpg  used on input line 50.
 (pdftex.def)             Requested size: 28.45274pt x 30.22913pt.
 File: images/thumps.jpg Graphic file (type jpg)
 <use images/thumps.jpg>
-Package pdftex.def Info: images/thumps.jpg  used on input line 42.
+Package pdftex.def Info: images/thumps.jpg  used on input line 54.
 (pdftex.def)             Requested size: 28.45274pt x 30.22913pt.
 File: images/thumps.jpg Graphic file (type jpg)
 <use images/thumps.jpg>
-Package pdftex.def Info: images/thumps.jpg  used on input line 46.
+Package pdftex.def Info: images/thumps.jpg  used on input line 58.
 (pdftex.def)             Requested size: 28.45274pt x 30.22913pt.
 <images/hp.jpg, id=5, 2501.345pt x 1879.02pt>
 File: images/hp.jpg Graphic file (type jpg)
 <use images/hp.jpg>
-Package pdftex.def Info: images/hp.jpg  used on input line 50.
+Package pdftex.def Info: images/hp.jpg  used on input line 62.
 (pdftex.def)             Requested size: 28.45274pt x 21.36026pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 52.
+(Font)              <7> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 52.
+(Font)              <5> on input line 64.
 
-Underfull \vbox (badness 10000) detected at line 52
+Underfull \vbox (badness 10000) detected at line 64
  []
 
 
@@ -463,22 +469,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  <./images/thumps.jpg> <./images/hp.jpg>]
 File: images/thumps.jpg Graphic file (type jpg)
 <use images/thumps.jpg>
-Package pdftex.def Info: images/thumps.jpg  used on input line 66.
+Package pdftex.def Info: images/thumps.jpg  used on input line 78.
 (pdftex.def)             Requested size: 28.45274pt x 30.22913pt.
 File: images/thumps.jpg Graphic file (type jpg)
 <use images/thumps.jpg>
-Package pdftex.def Info: images/thumps.jpg  used on input line 70.
+Package pdftex.def Info: images/thumps.jpg  used on input line 82.
 (pdftex.def)             Requested size: 28.45274pt x 30.22913pt.
 File: images/thumps.jpg Graphic file (type jpg)
 <use images/thumps.jpg>
-Package pdftex.def Info: images/thumps.jpg  used on input line 74.
+Package pdftex.def Info: images/thumps.jpg  used on input line 86.
 (pdftex.def)             Requested size: 28.45274pt x 30.22913pt.
 File: images/hp.jpg Graphic file (type jpg)
 <use images/hp.jpg>
-Package pdftex.def Info: images/hp.jpg  used on input line 78.
+Package pdftex.def Info: images/hp.jpg  used on input line 90.
 (pdftex.def)             Requested size: 28.45274pt x 21.36026pt.
 
-Underfull \vbox (badness 10000) detected at line 80
+Underfull \vbox (badness 10000) detected at line 92
  []
 
 
@@ -488,17 +494,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.0pt}.
 
-[2] (./test.aux) ) 
+[2] (./1.aux) ) 
 Here is how much of TeX's memory you used:
- 14367 strings out of 480247
- 295601 string characters out of 5896151
- 639656 words of memory out of 5000000
- 32060 multiletter control sequences out of 15000+600000
- 470218 words of font info for 31 fonts, out of 8000000 for 9000
+ 14391 strings out of 480247
+ 295862 string characters out of 5896151
+ 642642 words of memory out of 5000000
+ 32075 multiletter control sequences out of 15000+600000
+ 473876 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 84i,11n,90p,450b,810s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,11n,90p,458b,814s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on test.pdf (2 pages, 181114 bytes).
+Output written on 1.pdf (2 pages, 188428 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream

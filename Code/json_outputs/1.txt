@@ -1,0 +1,33 @@
+<JSON>
+{
+    "Name": "Match the Seasons",
+    "Description": "Match the seasons with their corresponding images.",
+    "Problem": {
+        "Total Columns": "2",
+        "Columns": {
+            "Seasons": {
+                "Size": "4",
+                "Entries": [
+                    "<Text>Spring</Text>",
+                    "<Text>Summer</Text>",
+                    "<Text>Fall</Text>",
+                    "<Text>Winter</Text>"
+                ]
+            },
+            "Images": {
+                "Size": "4",
+                "Entries": [
+                    "<Text>Text of blooming flowers, green trees, and butterflies</Text>",
+                    "<Text>Text of a sunny beach with people in swimsuits</Text>",
+                    "<Text>Text of colorful falling leaves and pumpkins</Text>",
+                    "<Text>Text of snow-covered trees and a snowman</Text>"
+                ]
+            }
+        }
+    }
+}
+</JSON>
+
+
+
+
