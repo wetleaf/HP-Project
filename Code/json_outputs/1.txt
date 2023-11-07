@@ -1,33 +1,39 @@
-<JSON>
 {
-    "Name": "Match the Seasons",
-    "Description": "Match the seasons with their corresponding images.",
-    "Problem": {
+    "Name": "Body Parts Match",
+    "Description": "Match the body parts in Column 1 with their corresponding names in Column 2",
+    "Problem":{
         "Total Columns": "2",
         "Columns": {
-            "Seasons": {
-                "Size": "4",
-                "Entries": [
-                    "<Text>Spring</Text>",
-                    "<Text>Summer</Text>",
-                    "<Text>Fall</Text>",
-                    "<Text>Winter</Text>"
+            "Body Parts":{
+                "Size": "6",
+                "Entries":[
+                    "<Image> Image of a hand </Image>",
+                    "<Image> Image of a foot </Image>",
+                    "<Image> Image of an eye </Image>",
+                    "<Image> Image of a nose </Image>",
+                    "<Image> Image of an ear </Image>",
+                    "<Image> Image of a mouth </Image>"
                 ]
             },
-            "Images": {
-                "Size": "4",
-                "Entries": [
-                    "<Text>Text of blooming flowers, green trees, and butterflies</Text>",
-                    "<Text>Text of a sunny beach with people in swimsuits</Text>",
-                    "<Text>Text of colorful falling leaves and pumpkins</Text>",
-                    "<Text>Text of snow-covered trees and a snowman</Text>"
+            "Names":{
+                "Size": "6",
+                "Entries":[
+                    "<Text>Hand</Text>",
+                    "<Text>Foot</Text>",
+                    "<Text>Eye</Text>",
+                    "<Text>Nose</Text>",
+                    "<Text>Ear</Text>",
+                    "<Text>Mouth</Text>"
                 ]
             }
         }
+    },
+    "Solution":{
+      "Left":[
+        "1","2","3","4","5","6"
+      ],
+      "Right":[
+        "a","b","c","d","e","f"
+      ]
     }
 }
-</JSON>
-
-
-
-

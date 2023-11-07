@@ -4,12 +4,8 @@ import json
 
 def read(path):
     with open(path, "r") as inp:
-        file_contents = inp.read()
+        match = inp.read()
 
-    pattern = r"<JSON>\n(.*)\n</JSON>"
-    matches = re.findall(pattern, file_contents, re.DOTALL)
-
-    match = matches[0]
     json_data = json.loads(match)
     data = json_data["Problem"]["Columns"]
     name = json_data["Name"]
@@ -20,5 +16,6 @@ def read(path):
         for i in range(len(data[key]["Entries"])):
             col.append(data[key]["Entries"][i])
         ret_data.append(col)
-
-    return ret_data, name, desc
+    sol_left = json_data["Solution"]["Left"]
+    sol_right = json_data["Solution"]["Right"]
+    return ret_data, name, desc, sol_left, sol_right
